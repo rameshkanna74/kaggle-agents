@@ -1,0 +1,19 @@
+# Refund Policy
+
+## General Policy
+We offer a 30-day money-back guarantee for all new subscriptions. If you are not satisfied with our service, you can request a full refund within the first 30 days of your initial purchase.
+
+## Pro Plan Refunds
+- Pro Plan users are eligible for a prorated refund if they cancel mid-cycle after the initial 30-day period.
+- The refund amount is calculated based on the remaining unused days in the billing cycle.
+
+## Enterprise Plan Refunds
+- Enterprise subscriptions are governed by the specific terms in the signed contract.
+- Generally, Enterprise plans are non-refundable unless there is a breach of SLA.
+
+## Non-Refundable Items
+- One-time setup fees are non-refundable.
+- Add-on services (e.g., dedicated support hours) are non-refundable once used.
+
+## How to Request a Refund
+To request a refund, please contact our support team or ask the automated agent to "process a refund". All refund requests over $500 require manual approval.

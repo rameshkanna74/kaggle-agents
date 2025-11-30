@@ -1,5 +1,54 @@
-fastapi
-uvicorn
-google-adk
-pydantic
-python-dotenv
+"""
+Enhanced requirements for advanced AI agents system.
+
+Includes all dependencies for:
+- Safety layer (validation, rate limiting)
+- A2A communication
+- Knowledge base (RAG)
+- Monitoring and observability
+- Testing
+"""
+
+# Core framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic[email]>=2.5.0
+python-dotenv>=1.0.0
+
+# Google ADK
+google-adk>=0.1.0
+google-generativeai>=0.3.0
+
+# Database
+sqlalchemy>=2.0.0
+aiosqlite>=0.19.0
+
+# Vector database for RAG
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# Rate limiting and caching
+redis>=5.0.0
+hiredis>=2.2.0
+
+# Monitoring and observability
+prometheus-client>=0.19.0
+structlog>=23.2.0
+
+# Retry logic and resilience
+tenacity>=8.2.0
+
+# HTTP client
+requests>=2.31.0
+httpx>=0.25.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+
+# Development tools
+black>=23.12.0
+ruff>=0.1.0
+mypy>=1.7.0

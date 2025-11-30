@@ -1,0 +1,25 @@
+# Frequently Asked Questions (FAQ)
+
+## Subscription Management
+
+**Q: How do I upgrade my plan?**
+A: You can upgrade your plan at any time by asking the agent to "upgrade my subscription". The new features will be available immediately, and you will be charged a prorated amount for the remainder of the cycle.
+
+**Q: Can I pause my subscription?**
+A: Yes, we offer a "Postpone" feature. You can pause your subscription for up to 3 months. During this time, you will not be charged, but access to premium features will be suspended.
+
+## Billing
+
+**Q: When will I be billed?**
+A: We bill monthly on the anniversary of your signup date. You can check your next billing date by asking "When is my next bill?".
+
+**Q: What payment methods do you accept?**
+A: We accept all major credit cards (Visa, Mastercard, Amex) and PayPal. For Enterprise plans, we also accept wire transfers.
+
+## Technical Support
+
+**Q: How do I reset my password?**
+A: For security reasons, this agent cannot reset passwords directly. Please visit the login page and click "Forgot Password" to receive a reset link via email.
+
+**Q: Is there an API available?**
+A: Yes, Pro and Enterprise plans include API access. You can find the documentation at developer.example.com.
